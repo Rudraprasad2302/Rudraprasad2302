@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudra prasad 414913273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rudra Prasad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rudra-prasad-414913273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rudra Prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/r_u_d_r_a__p_r_a_s_a_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_u_d_r_a__p_r_a_s_a_d" height="30" width="40" /></a>
 </p>
 
