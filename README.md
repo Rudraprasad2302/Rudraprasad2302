@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dashboard View)
+### 📊 GitHub Stats (3D Dashboard Style)
 <table align="center">
   <tr>
     <td>
@@ -61,20 +61,9 @@
 
 ---
 
-### 🕹 Contribution Activity (Pac-Man Mode)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
----
-
 ### 🚀 Currently Working On
-- 🔧 Full Stack applications using **Spring Boot + React**
-- 🧠 Strengthening **DSA with Java**
+- 🔧 Full Stack projects using **Spring Boot + React**
+- 🧠 Improving **DSA with Java**
 - ⚙️ Exploring **REST APIs & System Design basics**
 
 ---
