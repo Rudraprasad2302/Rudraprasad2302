@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats (3D Dashboard Style)
+### 📊 GitHub Stats 
 <table align="center">
   <tr>
     <td>
