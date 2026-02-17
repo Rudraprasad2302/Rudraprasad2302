@@ -31,4 +31,3 @@
   <img src="https://streak-stats.demolab.com?user=Rudraprasad2302&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudraprasad2302&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraprasad2302&" alt="rudraprasad2302" /></p>
