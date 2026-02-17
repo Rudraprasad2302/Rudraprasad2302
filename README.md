@@ -62,13 +62,13 @@
 ---
 
 ### 🕹 Contribution Activity (Pac-Man Mode)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
