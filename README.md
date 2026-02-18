@@ -62,7 +62,7 @@
 ---
 
 ### 🚀 Currently Working On
-- 🔧 Full Stack projects using **Spring Boot + React**
+- 🔧 Full Stack projects using **MERN**
 - 🧠 Improving **DSA with Java**
 - ⚙️ Exploring **REST APIs & System Design basics**
 
