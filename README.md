@@ -73,19 +73,12 @@
 
 ## 🚀 Featured Projects
 
-<!-- Replace repo names below with your actual repo names -->
-
-## 🚀 Featured Projects
-
 <p align="center">
   <a href="https://github.com/Rudraprasad2302/django-carwash">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=django-carwash&theme=radical" />
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=django-carwash&theme=radical" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Rudraprasad2302/IRCTC-Train-Booking-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=IRCTC-Train-Booking-System&theme=radical" />
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=IRCTC-Train-Booking-System&theme=radical" />
   </a>
 </p>
 
