@@ -53,14 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true" />
+  <img width="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="760" src="https://streak-stats.demolab.com?user=Rudraprasad2302&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 📈 Activity Graph
