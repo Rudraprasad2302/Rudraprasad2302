@@ -77,10 +77,10 @@
 
 <p align="center">
   <a href="https://github.com/Rudraprasad2302/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=REPO_NAME_1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=django-carwash&theme=radical" />
   </a>
   <a href="https://github.com/Rudraprasad2302/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=REPO_NAME_2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=IRCTC-Train-Booking-System&theme=radical" />
   </a>
 </p>
 
