@@ -52,13 +52,25 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true" />
-  <img width="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true" />
+
+</td>
+<td>
+
+<img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img width="760" src="https://streak-stats.demolab.com?user=Rudraprasad2302&theme=radical&hide_border=true" />
+  <img width="500" src="https://streak-stats.demolab.com?user=Rudraprasad2302&theme=radical&hide_border=true" />
 </p>
 
 ---
