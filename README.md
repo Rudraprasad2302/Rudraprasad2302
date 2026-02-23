@@ -78,11 +78,8 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Rudraprasad2302/Java-DSA-Learning">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=Java-DSA-Learning&theme=radical" />
-  </a>
-  <a href="https://github.com/Rudraprasad2302/BasicClientServer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=BasicClientServer&theme=radical" />
+  <a href="https://github.com/Rudraprasad2302/django-carwash">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=django-carwash&theme=radical" />
   </a>
 </p>
 
