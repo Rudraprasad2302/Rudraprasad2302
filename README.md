@@ -60,6 +60,7 @@
 <p align="center">
   <img width="760" src="https://streak-stats.demolab.com?user=Rudraprasad2302&theme=radical&hide_border=true" />
 </p>
+
 ---
 
 ## 📈 Activity Graph
@@ -74,12 +75,20 @@
 
 <!-- Replace repo names below with your actual repo names -->
 
+## 🚀 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/Rudraprasad2302/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=django-carwash&theme=radical" />
+  <a href="https://github.com/Rudraprasad2302/Java-DSA-Learning">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=Java-DSA-Learning&theme=radical" />
   </a>
-  <a href="https://github.com/Rudraprasad2302/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=IRCTC-Train-Booking-System&theme=radical" />
+  <a href="https://github.com/Rudraprasad2302/BasicClientServer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=BasicClientServer&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rudraprasad2302/IRCTC-Train-Booking-System">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rudraprasad2302&repo=IRCTC-Train-Booking-System&theme=radical" />
   </a>
 </p>
 
