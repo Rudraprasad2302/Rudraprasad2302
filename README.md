@@ -14,7 +14,6 @@
 <!-- Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rudraprasad2302&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rudraprasad2302" />
 </p>
 
 ---
@@ -26,8 +25,6 @@
 - 🧠 Improving **DSA with Java**
 - ⚙️ Exploring **System Design Basics**
 - 📫 Reach me at: **rudraprasad2302@gmail.com**
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/1UpILl1jeUz7ZImM-4UYprIUE6ukDorqB/view
 - ⚡ Fun fact: *Debugging feels like beating levels in a game 🎮*
 
 ---
@@ -53,19 +50,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rudraprasad2302&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Rudraprasad2302&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprasad2302&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -82,29 +71,23 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rudraprasad2302/Rudraprasad2302/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
+<!-- Replace repo names below with your actual repo names -->
+
 <p align="center">
-  <a href="https://github.com/Rudraprasad2302/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=YOUR_REPO_NAME&theme=radical" />
+  <a href="https://github.com/Rudraprasad2302/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=REPO_NAME_1&theme=radical" />
+  </a>
+  <a href="https://github.com/Rudraprasad2302/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudraprasad2302&repo=REPO_NAME_2&theme=radical" />
   </a>
 </p>
-
-(Add more pinned project cards above 👆 by duplicating)
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master Spring Boot & Microservices
 - ✅ Build 3 Production Ready Full Stack Projects
 - ✅ Solve 300+ DSA Problems
 - ✅ Contribute to Open Source
