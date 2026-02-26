@@ -4,28 +4,34 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rudra Prasad</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Java & MERN Enthusiast</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Problem+Solver+%7C+DSA+Enthusiast;Always+Learning+New+Things" />
-</p>
+<h3 align="center">
+  💡 Building scalable backend systems & solving real-world problems through clean architecture.
+</h3>
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudraprasad2302&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">
+  🚀 Passionate Full Stack Developer | Java • Spring Boot • MERN
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🌱 Currently mastering **Spring Boot, React JS & MongoDB**
-- 💬 Ask me about **Java, MySQL, HTML, CSS, REST APIs**
-- 🧠 Improving **DSA with Java**
-- ⚙️ Exploring **System Design Basics**
+- 🧠 Actively improving **Data Structures & Algorithms (Java)**
+- ⚙️ Exploring **System Design fundamentals**
+- 💬 Ask me about **Java, REST APIs, MySQL, HTML, CSS**
 - 📫 Reach me at: **rudraprasad2302@gmail.com**
-- ⚡ Fun fact: *Debugging feels like beating levels in a game 🎮*
+- ⚡ Debugging feels like beating levels in a game 🎮
+
+---
+
+## 🔥 Currently Focused On
+
+- 🧩 Advanced DSA Patterns
+- ⚙️ Building Production-Ready REST APIs
+- 🏗 Writing clean, maintainable backend code
+- 🚀 Strengthening problem-solving speed
 
 ---
 
@@ -33,19 +39,26 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-prasad-414913273/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/r_u_d_r_a__p_r_a_s_a_d" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,mongodb,html,css,js,linux,git,python&theme=dark" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -75,14 +88,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudraprasad2302&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -98,18 +103,16 @@
 
 ## 🎯 2026 Goals
 
-- ✅ Build 3 Production Ready Full Stack Projects
+- ✅ Build 3 Production-Ready Full Stack Projects
 - ✅ Solve 300+ DSA Problems
 - ✅ Contribute to Open Source
 - ✅ Crack a Product-Based Company
 
 ---
 
-## 💭 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<h3 align="center">
+  ⚡ Consistency beats intensity. ⚡
+</h3>
 
 ---
 
