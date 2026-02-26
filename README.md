@@ -3,17 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=200&section=header&text=Rudra%20Prasad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rudra Prasad</h1>
-
-<h3 align="center">
-  💡 Building scalable backend systems & solving real-world problems through clean architecture.
-</h3>
-
-<h3 align="center">
-  🚀 Passionate Full Stack Developer | Java • Spring Boot • MERN
-</h3>
-
----
+<h1 align="center">Hi 👋, I'm Rudra Prasad</h1> <h3 align="center">🚀 Passionate Full Stack Developer | Java & MERN Enthusiast</h3> <!-- Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Problem+Solver+%7C+DSA+Enthusiast;Always+Learning+New+Things" /> </p> <!-- Visitor Badge --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rudraprasad2302&label=Profile%20Views&color=0e75b6&style=flat" /> </p> ---
 
 ## 👨‍💻 About Me
 
